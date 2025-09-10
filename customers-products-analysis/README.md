@@ -54,7 +54,7 @@ SELECT c.contactLastName, c.contactFirstName, c.city, c.country, cr.revenue
 
 ```
 Full SQL script with all queries available here:
-sql/customers_products_analysis.sql
+customers-products-analysis/customers_products_analysis.sql
 
 ---
 
@@ -79,7 +79,7 @@ sql/customers_products_analysis.sql
 ## Files in this Repository
 
 - README.md → Project documentation
-- sql/customers_products_analysis.sql → Full SQL queries
+- customers-products-analysis/customers_products_analysis.sql → Full SQL queries
 
 ---
 
