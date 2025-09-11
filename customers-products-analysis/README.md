@@ -80,7 +80,8 @@ Full SQL script with all queries available here:
 
 - README.md → Project documentation
 - customers_products_analysis.sql → Full SQL queries
-
+- images → query outputs/results
+  
 ---
 
 ## Contact
