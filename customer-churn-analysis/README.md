@@ -47,6 +47,3 @@ The goal of this project was to *analyze customer data to identify churn drivers
 ![Churn Drilldown](./images/Customer_Churn_Dashboard_2.PNG)  
 
 ---
-
-## Contact  
-For dataset or additional details, please reach out at virginia.ezemaduakor@gmail.com
