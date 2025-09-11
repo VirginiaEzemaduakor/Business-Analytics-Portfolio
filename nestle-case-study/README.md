@@ -49,7 +49,7 @@ To support Nestlé’s strategic expansion into new product lines, this case stu
 ### 5. Sales Channels (Findings Summary)  
 - **Direct channel** was dominant (\$23.8M total), with Milo as the leader (\$6M).  
 - **Online channel** accounted for \$7M, with Nescafé leading (\$3M) and Kit Kat following (~\$2M).  
-- Notably, Milo had zero online sales, indicating a gap in digital strategy.
+- Notably, Milo's sales were concentrated in the direct channel, with minimal or no online sales.
 
 ---
 
