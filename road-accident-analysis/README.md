@@ -53,9 +53,9 @@ Visuals created in Tableau includes:
 ![Road Accident Dashboard](./image/All.png)
 
 Click to view accident severity trends: 
-[Fatal Casualties](/image/Fatal.PNG)
-[Serious Casualties](/image/Serious.PNG)
-[Slight Casualties](/image/Slight.PNG)
+[Fatal Casualties](./image/Fatal.PNG)
+[Serious Casualties](./image/Serious.PNG)
+[Slight Casualties](/.image/Slight.PNG)
 
 ---
 
