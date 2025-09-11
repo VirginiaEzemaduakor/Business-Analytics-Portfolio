@@ -55,21 +55,20 @@ To support Nestlé’s strategic expansion into new product lines, this case stu
 
 ##  Recommendations  
 - **Boost Marketing & Distribution:** Send Milo and other high performers online via better digital outreach.  
-- **Product Packaging:** Introduce smaller, price-accessible formats for lower -income demographics.  
-- **Geographical Focus:** Optimize logistics to balance distribution across low -performing regions.  
+- **Product Packaging:** Introduce smaller, price-accessible formats for lower-income demographics.  
+- **Geographical Focus:** Optimize logistics to balance distribution across low-performing regions.  
 - **Leverage Customer Insights:** Use data to tailor marketing, improve brand perception, and explore product personalization.  
 - **Expand Product Lines:** Use consumer data to guide the launch of new, high-demand product variations.
 
 ---
 
 ## Dashboard & Visuals
+[Nestle Report](nestle-case-study/images/Nestle_report.png)
+
+Key visuals included in the report:
+- Sales trend over 3 years
+- Product-level revenue comparison
+- Regional performance map
+- Sales channel breakdown
 
 ---
-
-##  File Structure  
-- README.md → Project narrative and insights  
-- images/ → Visual reports (e.g., trend charts)  
-- data/ → (If applicable)
-
----
-
