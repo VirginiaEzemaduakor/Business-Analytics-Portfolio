@@ -62,14 +62,7 @@ To support Nestlé’s strategic expansion into new product lines, this case stu
 
 ---
 
-## Dashboard & Visuals
-![Nestle Report](.//images/Nestle_report.png)
-![Churn_Overview](./images/Customer_Churn_Dashboard_1.PNG) 
-
-Key visuals included in the report:
-- Sales trend over 3 years
-- Product-level revenue comparison
-- Regional performance map
-- Sales channel breakdown
+## Dashboard 
+![Nestle dashboard](.//images/Nestle_report.png)
 
 ---
