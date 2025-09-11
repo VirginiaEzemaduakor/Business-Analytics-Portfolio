@@ -50,8 +50,12 @@ Visuals created in Tableau includes:
 - Weather and surface condition analysis  
 - Road type and location trends  
 
-![Road Accident Dashboard](./)
+![Road Accident Dashboard](./image/All.png)
 
+Click to view accident severity trends for: 
+[Fatal Casualties](./image/All.png)
+[Serious Casualties](./image/All.png)
+[Slight Casualties](./image/All.png)
 
 ---
 
