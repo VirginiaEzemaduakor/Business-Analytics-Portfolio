@@ -63,7 +63,7 @@ To support Nestlé’s strategic expansion into new product lines, this case stu
 ---
 
 ## Dashboard & Visuals
-[Nestle Report](nestle-case-study/images/Nestle_report.png)
+![Nestle Report](./nestle-case-study/images/Nestle_report.png)
 
 Key visuals included in the report:
 - Sales trend over 3 years
