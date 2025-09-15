@@ -40,10 +40,10 @@ This dissertation investigates the relationship between **Foreign Direct Investm
 ---
 
 ## Policy Recommendations  
-- *Strengthen institutions* and anti-corruption policies to maximize FDI benefits.  
-- *Invest in education and skills development* to improve human capital.  
-- *Diversify FDI inflows* towards manufacturing and technology sectors.  
-- *Improve infrastructure* and financial systems to sustain long-term growth.  
+- **Strengthen institutions** and anti-corruption policies to maximize FDI benefits.  
+- **Invest in education and skills development** to improve human capital.  
+- **Diversify FDI inflows** towards manufacturing and technology sectors.  
+- **Improve infrastructure** and financial systems to sustain long-term growth.  
 
 ---
 
