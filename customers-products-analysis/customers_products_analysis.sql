@@ -1,8 +1,8 @@
-* ===========================
+/* ===========================
    CUSTOMERS PRODUCTS ANALYSIS
-   =========================== *
+   =========================== */
 
-* 1. Total Sales per Product */
+/* 1. Total Sales per Product */
 SELECT p.productName,
        p.productLine,
        SUM(od.quantityOrdered * od.priceEach) AS total_sales
